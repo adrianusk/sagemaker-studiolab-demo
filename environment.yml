@@ -1,7 +1,7 @@
 # To use:
 #   $ conda env create -f env_cv.yml
 #   $ conda activate cv
-# Update something
+# Delete something
 name: tf-plt
 dependencies:
   - python=3.9
